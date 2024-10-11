@@ -1,0 +1,12 @@
+.Cards-Container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+}
+.Filters-Container{
+    flex-direction: row;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
